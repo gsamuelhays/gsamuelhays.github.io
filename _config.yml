@@ -1,4 +1,4 @@
 name: "Sam's Site"
 theme: jekyll-theme-hacker
-baseurl: ""
 url: "https://gsamuelhays.github.io"
+show_downloads: "false"
