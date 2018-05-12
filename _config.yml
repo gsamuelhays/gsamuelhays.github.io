@@ -1,4 +1,6 @@
+title: sams.site
+description: Stuff I find interesting enough to write about.
 name: "Sam's Site"
-theme: minima
-url: "https://gsamuelhays.github.io"
-show_downloads: "false"
+theme: jekyll-theme-hacker
+show_downloads: false
+author: G. Samuel Hays
