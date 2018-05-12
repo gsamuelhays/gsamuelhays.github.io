@@ -3,6 +3,7 @@ layout: post
 title: Github page move
 date: 2018-05-11 9:00 PM
 category: blog 
+tags: blog
 ---
 
 ### Github page move
