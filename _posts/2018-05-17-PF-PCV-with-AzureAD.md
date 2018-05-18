@@ -1,7 +1,7 @@
 ---
 layout: post
 title: AzureAD PCV with PingFederate
-date: 2018-05-13 2:00 PM
+date: 2018-05-17 2:00 PM
 category: blog 
 tags: blog pingfederate azure aad 
 ---
