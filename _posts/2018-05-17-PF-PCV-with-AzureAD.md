@@ -35,7 +35,7 @@ At this point we'll be greeted with a number of options. Let's run through the t
 
 ![AppID and Secret]({{ site.uri }}/assets/2018_05_17_PF_AAD_CONFIG_05.png)
 
-The Platforms option is interesting - we tested with with with Web API and _nothing_ defined and both worked, but not defining anything caused an error (that seemed to do nothing) in a later step. So I am recommending leaving it blank.
+The Platforms option is interesting - we tested with 'Web API' and with _nothing_ defined and both worked, but not defining anything caused an error (that seemed to do nothing) in a later step. So I am recommending leaving it blank.
 
 Let's head down a little farther to the 'Microsoft Graph Permissions' section. This is one part of the configuration that was supremely frustrating about Ping documentation. It literally says (at the time of this writing):
 
